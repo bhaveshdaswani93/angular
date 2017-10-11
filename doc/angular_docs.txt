@@ -4,3 +4,5 @@ ng new angular_project_name -> to create angular project
 
 To run the project go into the folder created in ng new project_name and type -> ng serve
 it will start the development server at random port.To start at particular port use-> ng server --port port_number
+
+ng generate component component_name/ ng g c component_name-> to generate component using cli
