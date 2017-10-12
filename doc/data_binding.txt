@@ -1,0 +1,11 @@
+Data Binding
+different way of communication or data binding 
+from Typescript to Template(HTML) output Data
+1. String Interpolation -> {{ data }}
+2. Property Binding -> [property] = "data"
+
+From Template to Typescript [React to user event]
+1. Event Binding (event) = "expression"
+
+combination of both Two-way-binding 
+[(ngModel)] = "data"
